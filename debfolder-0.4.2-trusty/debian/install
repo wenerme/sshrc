@@ -1,1 +1,2 @@
 sshrc usr/bin
+bash-completion/sshrc usr/share/bash-completion/completions

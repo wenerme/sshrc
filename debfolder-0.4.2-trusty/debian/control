@@ -11,5 +11,6 @@ Homepage: http://stewart.guru
 Package: sshrc
 Architecture: all
 Depends: ${misc:Depends} vim-common
+Recommends: bash-completion
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
