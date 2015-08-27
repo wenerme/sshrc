@@ -1,0 +1,15 @@
+Source: sshrc
+Section: misc
+Priority: optional
+Maintainer: Russell Stewart <russell.s.stewart@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: http://stewart.guru
+#Vcs-Git: git://git.debian.org/collab-maint/sshrc.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/sshrc.git;a=summary
+
+Package: sshrc
+Architecture: all
+Depends: ${misc:Depends} vim-common
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

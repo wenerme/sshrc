@@ -1,0 +1,5 @@
+sshrc (0.4.2-trusty-1) trusty; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Russell Stewart <russell.s.stewart@gmail.com>  Sun, 26 Jul 2015 14:18:09 -0700
